@@ -74,7 +74,7 @@ streamlit run app.py
 ```
 
 ## 🌐 Live Demo
-
+https://heartdiseasepredictionappppppp.streamlit.app/
 Deploy easily using Streamlit Community Cloud.
 
 ## 📈 Model Information
